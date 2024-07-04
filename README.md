@@ -37,10 +37,10 @@ You can see the application in action and use the buttons to increment or decrem
 Instructions on how to contribute to the project:
 
 Fork the project
-Create a branch for your feature (git checkout -b feature/AmazingFeature)
-Commit your changes (git commit -m 'Add an amazing feature')
-Push to the branch (git push origin feature/AmazingFeature)
-Open a Pull Request
+- Create a branch for your feature (git checkout -b feature/AmazingFeature)
+- Commit your changes (git commit -m 'Add an amazing feature')
+- Push to the branch (git push origin feature/AmazingFeature)
+- Open a Pull Request
 
 ## License
 Distributed under the MIT License. See LICENSE for more information.
